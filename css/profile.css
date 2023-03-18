@@ -1,0 +1,31 @@
+.form-control{
+    border-radius: 0;
+}
+#button-addon2{
+    border-radius: 0;
+    color: white;
+}
+.input-group{
+    width: 90%;
+    margin: 0 auto;
+}
+.border-bottom{
+    border-bottom: 1px solid black !important;
+}
+#text2{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+#cash_record{
+    height: 50px;
+}
+#record_name{
+    height: 50px;
+    color: rgb(14, 102, 131);
+}
+#line{
+    color: rgb(14, 102, 131);
+}

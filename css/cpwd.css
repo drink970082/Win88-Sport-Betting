@@ -1,0 +1,39 @@
+#main1 {
+    background-color: lightgray;
+    margin-top: 5vh;
+    min-height: 80vh;
+}
+
+#main1 #nowPwd,
+#newPwd,
+#cfnPwd {
+    line-height: 1.5;
+    border-radius: 0;
+    width: 516px;
+}
+
+#main1 .col-form-label {
+    margin-right: 20px;
+}
+
+#text1 {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.col-auto {
+    margin-bottom: 24px;
+}
+
+#btn1 .btn {
+    width: 300px;
+    border-radius: 0;
+}
+
+.message {
+    text-align: center;
+    margin: 30px;
+}
